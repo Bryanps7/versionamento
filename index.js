@@ -1,2 +1,2 @@
-console.log('> teste');
-console.log("> Alterando o programa novamente");
+console.log('> Teste.');
+console.log("> Alterando o programa novamente.");
