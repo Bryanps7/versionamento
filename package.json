@@ -10,6 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/Bryanps7/versionamento.git"
   },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Jest",
+    "Babel",
+    "GitFlow",
+    "HTML",
+    "CSS"
+  ],
   "author": "Bryan Prinz",
   "license": "MIT",
   "bugs": {
